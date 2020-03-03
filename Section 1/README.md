@@ -4,11 +4,11 @@ This section welcomes the students and introduces an overview of the whole conte
 
 ## Contents
 
-1. Course overview
-2. What’s new in TensorFlow 2.0
-3. Examples and applications
-4. Installation and setup
-5. Implementing a standard convolutional model with TensorFlow 2.0
+1.1. Course overview <br>
+1.2. What’s new in TensorFlow 2.0 <br>
+1.3. Examples and applications <br>
+1.4. Installation and setup <br>
+1.5. Implementing a standard convolutional model with TensorFlow 2.0 <br>
 
 ## Material
 
