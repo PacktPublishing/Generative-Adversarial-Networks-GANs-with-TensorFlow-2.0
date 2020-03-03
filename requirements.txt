@@ -1,0 +1,8 @@
+numpy
+pandas
+ipykernel
+jupyterlab
+matplotlib
+opencv-python
+tensorflow==2.0.0
+tensorboard==2.0.0
