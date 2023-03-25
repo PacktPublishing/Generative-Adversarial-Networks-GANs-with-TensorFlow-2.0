@@ -4,5 +4,5 @@ ipykernel
 jupyterlab
 matplotlib
 opencv-python
-tensorflow==2.0.1
+tensorflow==2.11.1
 tensorboard==2.0.0
